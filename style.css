@@ -658,7 +658,7 @@ form h3 {
         font-size: 1.1rem;
         line-height: 2rem;
     }
-    .category{
+    .category-container{
         grid-template-columns: 1fr;
     }
     .category:nth-child(1),
@@ -669,4 +669,5 @@ form h3 {
     
 
 }
+
 
