@@ -356,7 +356,7 @@ del {
 .sale-container {
     padding-block: 5rem;
     text-align: center;
-    background-image: url("/images/hero5.jpg");
+    background-image: url("images/hero5.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -669,3 +669,4 @@ form h3 {
     
 
 }
+
