@@ -140,7 +140,7 @@ span,
 
 .hero {
     height: 115vh;
-    background-image: url("/images/hero2.jpg");
+    background-image: url("images/hero2.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -667,4 +667,5 @@ form h3 {
         grid-row: auto;
     }
     
+
 }
