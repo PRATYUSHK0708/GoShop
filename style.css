@@ -641,8 +641,8 @@ form h3 {
         position:relative;
         right: 30px;
     }
-    .conatiner{
-        max-width: 80%;
+    .container{
+        max-width: 95%;
     }
     .hero{
         height: 60vh;
@@ -671,6 +671,7 @@ form h3 {
     
 
 }
+
 
 
 
