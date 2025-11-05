@@ -640,7 +640,7 @@ form h3 {
         display: block;
     }
     .conatiner{
-        max-width: 95%;
+        max-width: 80%;
     }
     .hero{
         height: 60vh;
@@ -669,5 +669,6 @@ form h3 {
     
 
 }
+
 
 
