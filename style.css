@@ -620,18 +620,18 @@ form h3 {
         position: absolute;
         top: 0;
         left: 0;
-        width: 100%;
-        background: var(--black-clr);
+        width: 40%;
+        background: var(--white-clrL);
         padding: 2rem;
         transform: translateY(-100%);
         transition: all .3s ease-in-out;
     }
 
     .navlist-active{
-         transform: translateY(20%);
+         transform: translateY(25%);
     }
     .navlist .link{
-        color: var(--secondary-clr);
+        color: var(--light-black);
         font-weight: 400px;
 
     }
@@ -675,6 +675,7 @@ form h3 {
     
 
 }
+
 
 
 
