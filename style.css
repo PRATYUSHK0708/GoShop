@@ -638,6 +638,8 @@ form h3 {
     }
     .hamburger{
         display: block;
+        position:relative;
+        right: 30px;
     }
     .conatiner{
         max-width: 80%;
@@ -669,6 +671,7 @@ form h3 {
     
 
 }
+
 
 
 
