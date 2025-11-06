@@ -620,7 +620,7 @@ form h3 {
         position: absolute;
         top: 0;
         left: 0;
-        width: 40%;
+        width: 60%;
         background: var(--white-clrL);
         padding: 2rem;
         transform: translateY(-100%);
@@ -675,6 +675,7 @@ form h3 {
     
 
 }
+
 
 
 
